@@ -1,10 +1,10 @@
 
 Planning de travail 
-lundi 
-mardi 
-mercredi 
-jeudi 
-vendredi 
-samedi 
-dimanche
+lundi = cobol
+mardi =java
+mercredi = hirbernate
+jeudi =sql
+vendredi =xml
+samedi =pls
+dimanche = pls
 
