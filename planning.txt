@@ -5,6 +5,6 @@ mardi
 mercredi 
 jeudi 
 vendredi 
-samedi 
-dimanche
+samedi & dimanche
+
 
